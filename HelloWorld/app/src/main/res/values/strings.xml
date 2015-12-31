@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Olá Mundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="MainActivityHeader">Primeira Aplicação Nativa</string>
+    <string name="MainActivitySubHeader">Vamos ver no que dá</string>
+    <string name="subHeader">Vamos ver no que isso vai dar</string>
+    <string name="manda_ver">Manda ver!</string>
+</resources>
