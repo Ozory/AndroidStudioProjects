@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastAndAlert</string>
+    <string name="tocar_som">Tocar Som</string>
+</resources>
